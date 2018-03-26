@@ -1,0 +1,1 @@
+Treats to apache module mod_spnego
